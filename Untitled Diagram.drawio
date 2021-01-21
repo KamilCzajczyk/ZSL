@@ -1,1 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T11:38:15.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="5kSTEvWkgPHMLZp7SHoF" version="14.2.6" type="github"><diagram id="TD2ZySn2Q-9oDkGfq1TC" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:39:04.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="aH6X6-yeQbR9PZ_7gJno" version="14.2.6" type="github">
+  <diagram id="TD2ZySn2Q-9oDkGfq1TC" name="Page-1">
+    <mxGraphModel dx="1496" dy="2110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-1" target="EHAL_HRxOUWWnRyOiAYp-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-1" target="EHAL_HRxOUWWnRyOiAYp-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-1" value="Klient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-9" target="EHAL_HRxOUWWnRyOiAYp-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-9" target="EHAL_HRxOUWWnRyOiAYp-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-9" value="Przegląd samochodów używanych w ofercie salonu" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="205" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-11" target="EHAL_HRxOUWWnRyOiAYp-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-11" target="EHAL_HRxOUWWnRyOiAYp-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-11" value="Sprzedawca danego auta" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-12" value="Rezerwacja&amp;nbsp;&lt;br&gt;samochodu" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-14" value="Kupno &lt;br&gt;samochodu" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="430" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-18" value="Dodanie&lt;br&gt;auta do katalogu&lt;br&gt;dostępnych samochodów" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="525" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-20" value="Kontakt ze&lt;br&gt;sprzedającym" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="170" y="-220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-22" value="Filtrowanie aut" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="135" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-23" value="" style="endArrow=classic;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-22" target="EHAL_HRxOUWWnRyOiAYp-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="280" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-26" value="Dodanie auta &lt;br&gt;do puli obserwowanych samochodów" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-27" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-9" target="EHAL_HRxOUWWnRyOiAYp-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="150" as="sourcePoint" />
+            <mxPoint x="390" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-28" value="Kontakt &lt;br&gt;do&lt;br&gt;kupującego" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="390" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-30" target="EHAL_HRxOUWWnRyOiAYp-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-30" value="Logowanie&amp;nbsp;&lt;br&gt;lub rejestracja&lt;br&gt;w serwisie" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="15" y="-30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-32" value="" style="endArrow=classic;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-30" target="EHAL_HRxOUWWnRyOiAYp-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="30" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-33" value="Szybki &lt;br&gt;podgląd ofert obserwowanych" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="15" y="-190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-35" target="EHAL_HRxOUWWnRyOiAYp-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-35" value="bez &lt;br&gt;logowania lub rejestracji" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="15" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-37" value="przegląd samochodów używanych w ofercie salonu" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="190" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-39" target="EHAL_HRxOUWWnRyOiAYp-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-39" value="filtrowanie aut" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-41" target="EHAL_HRxOUWWnRyOiAYp-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="390" />
+              <mxPoint x="340" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-41" value="sortowanie ofert" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-44" value="" style="endArrow=classic;html=1;entryX=0.042;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.967;exitY=0.738;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-9" target="EHAL_HRxOUWWnRyOiAYp-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="150" as="sourcePoint" />
+            <mxPoint x="260" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-45" target="EHAL_HRxOUWWnRyOiAYp-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-45" value="sortowanie ofert" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-47" target="EHAL_HRxOUWWnRyOiAYp-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-47" target="EHAL_HRxOUWWnRyOiAYp-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-47" value="Moderator serwisu" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-49" value="usunięcie &lt;br&gt;dowolnej oferty z&lt;br&gt;katalogu dostępnych samochodów&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="110" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-52" value="kontakt z &lt;br&gt;każdym użytkownikiem" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-15" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-54" value="usuniecie&amp;nbsp;&lt;br&gt;konta uzytkownika" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="135" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EHAL_HRxOUWWnRyOiAYp-56" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="EHAL_HRxOUWWnRyOiAYp-47" target="EHAL_HRxOUWWnRyOiAYp-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="540" as="sourcePoint" />
+            <mxPoint x="300" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
